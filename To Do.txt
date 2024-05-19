@@ -1,0 +1,30 @@
+
+Data Cleaning
+=============
+1. Remove all current customers
+2. Can replace outliers with median
+3. 
+
+
+Analysis
+========
+1. Outliers
+
+
+
+
+PPT
+===
+1. 10-12 slides
+2. Problem statement (1-2 slides)
+3. Assumptions
+4. Approach (2-3 slides)
+5. Results (only relevant charts with some explaination/observation)
+6. Recommendation and concusion
+7. Tips for ppt
+  - no code
+  - ppt should be crisp, clear and to the point
+  - chart with proper labels
+  - title of chart
+  - size of the chart should be easy to understand... not to small and not too big
+8. 
