@@ -3,7 +3,8 @@ Data Cleaning
 =============
 1. Remove all current customers
 2. Can replace outliers with median
-3. 
+3. If missing value more thatn 50%, discard the column from analysis
+4. If missing vale is less thatn 40%, replace values with median 
 
 
 Analysis
@@ -21,3 +22,10 @@ PPT
 4. Approach (2-3 slides)
 5. Results (only relevant charts with some explaination/observation)
 6. Recommendation and concusion
+7. Tips for ppt
+  - no code
+  - ppt should be crisp, clear and to the point
+  - chart with proper labels
+  - title of chart
+  - size of the chart should be easy to understand... not to small and not too big
+8. 
