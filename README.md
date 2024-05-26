@@ -1,4 +1,4 @@
-# Project Name
+# LendingClubCaseStudy
 > Outline a brief description of your project.
 
 
