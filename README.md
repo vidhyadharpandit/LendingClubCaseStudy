@@ -1,5 +1,8 @@
 # LendingClubCaseStudy
-> Outline a brief description of your project.
+> Lending Club Project case study files are maintened here. Objective of case study is to understand the driving factors (or driver variables) behind loan default i.e. the variables which are strong indicators of default
+
+![Uploading image.png…]()
+
 
 
 ## Table of Contents
