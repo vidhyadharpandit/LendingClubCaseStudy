@@ -23,15 +23,25 @@
 
 ## Conclusions
 Insight1: At higher loan amounts the percent of charged off loans over total loans increased by 5 percentage points i.e. one in every five loans charged off 
+
 Insight2: At higher interest rates, charged off loans  as a percentage of total loans doubled when compared to overall range of data. Three loans in every ten loans charged off, meaning there is correlation between higher interest rate and loan getting charged off
+
 Insight3: When the interest rate is very low, the percent of charged off loans is way to less when compared to the overall range. This means when the interest rate is very low, very few loans gets charged off
+
 Insight4: When the loan term is 60 months, 25% of the total loans  got charged off
+
 Insight5: As the grade of loan moves from A to G, the percentage of charged off loans keeps increasing. While only 6% of the grade A loans ended up in charged off, in grade G over 33% of the loans are charged off
+
 Insight6: In the F5 subgrade, almost 48% of the loans resulted in charged off loans. In these subgrades F5,G3,G2,F4,G5,G1 the charged off loans percentage is very high(more than 33%. At least One in every three loans got charged off)
+
 Insight7: Lending for the purpose of small business turned out to be risky. More than 27% of the total loans resulted in charged off, this is way more than the average of 16%
+
 Insight8: The percentage of charged off loans is around 15% in most cases except DC-7% and NV-22.5%
+
 Insight9: When there is one pubrec, the percent of charged off loans is high when compared to average. The other sample sizes are very small, so not considering them.
+
 Insight10: When there is one pub_rec, bankruptcy, the percent of charged off loans is high when compared to average. The other sample sizes are very small, so not considering them
+
 ![Uploading image.png…]()
 
 
